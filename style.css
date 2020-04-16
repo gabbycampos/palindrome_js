@@ -1,0 +1,19 @@
+body {
+    font-family: helvetica;
+    background-color: #1a1e2d;
+    color: #ffcc81;
+}
+.checker {
+    text-align: center;
+}
+input {
+    border: 2px solid #a5ea9b; 
+    padding: 10px;
+    margin: 5px;
+}
+#submit {
+    background-color: #a5ea9b;
+}
+h1 {
+    padding: 10px;
+}
